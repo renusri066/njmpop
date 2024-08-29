@@ -335,11 +335,11 @@
                            -webkit-user-select: none;
                            -ms-user-select: none;
                            user-select: none;
-                           
-                        background: url('bg1.jpg');
+                           /*
+                        background: url('bg.png');
                        background-repeat: no-repeat;
                        background-size: cover;
-                      
+                       */
                            font-family: "Calibri", sans-serif;
                            overflow-y: hidden;
                            overflow-x: hidden;
