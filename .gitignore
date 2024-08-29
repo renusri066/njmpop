@@ -1,4 +1,7 @@
-.vs/slnx.sqlite
-/.vs/VSWorkspaceState.json
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
 /.vs/njmpop/FileContentIndex
-/.vs/slnx.sqlite
+*.sqlite
+*.json
