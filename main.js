@@ -1,71 +1,64 @@
 
-    $(document).ready(function() {
-   $("#chat-box").delay(1000).fadeIn(100);
+  $(document).ready(function() {
+   var audioElement = document.createElement('audio');
+   audioElement.setAttribute('src', 'webs.mp4');
+
+   audioElement.addEventListener('ended', function() {
+       this.play();
+   }, false);
+
+
+    $('#mycanvas').click(function() {
+       audioElement.play();
+
+   });
+
+     $('#link_black').click(function() {
+       audioElement.play();
+
+   });
+
+
+      $('.pro_box').click(function() {
+       audioElement.play();
+
+   });
+
+       $('#poptxt').click(function() {
+       audioElement.play();
+
+   });
+
 });
 
-      $(document).ready(function () {
-      $("#mycanvas").click(function () {
-          $("#welcomeDiv").show();
-      });
-  });
+  $(document).ready(function() {
+   var audioElement = document.createElement('audio');
+   audioElement.setAttribute('src', 'visudk.mp4');
+
+   audioElement.addEventListener('ended', function() {
+       this.play();
+   }, false);
 
 
-$(document).ready(function() {
-    var audioElement = document.createElement('audio');
-    audioElement.setAttribute('src', '_Fm7-alert.mp3');
-    
-    audioElement.addEventListener('ended', function() {
-        this.play();
-    }, false);
-    
-   
-     $('.map').click(function() {
-        audioElement.play();
-        
-    });
+    $('#mycanvas').click(function() {
+       audioElement.play();
 
-      $('.black').click(function() {
-        audioElement.play();
-        
-    });
-      
+   });
 
-       $('#footer').click(function() {
-        audioElement.play();
-        
-    });
+     $('#link_black').click(function() {
+       audioElement.play();
 
-        $('#poptxt').click(function() {
-        audioElement.play();
-        
-    });
-       
-     
-   
-    
-    
-});
-
-$("#footer").fadeIn('slow')
-.css({top: '75%', position: 'absolute'})
-.animate({top: '92%'}, 80, function() {
-    //callback
-});
-
-$(document).ready(function() {
-    $(".arow-div").delay(100).fadeIn(50);
-});
+   });
 
 
+      $('.pro_box').click(function() {
+       audioElement.play();
 
-$(document).ready(function(){
-    $("#footer").click(function(){
-        $('#poptxt').hide('fast');
-    });
-});
+   });
 
-$(document).ready(function(){
-    $(".black").click(function(){
-        $('.delayedPopupWindow').hide('fast');
-    });
+       $('#poptxt').click(function() {
+       audioElement.play();
+
+   });
+
 });
