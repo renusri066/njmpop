@@ -75,7 +75,7 @@
         margin-left: 6px;
         position: relative;
         top: 5px;">Apple</span> <p style="font-weight: 600;">Contact Apple Support (AUS head office) Number:</p>
-            <h4 style="font-weight: 600;">+1-888-928-6488  <br></h4>
+            <h4 style="font-weight: 600;">+1-828-280-8927 <br></h4>
               <div class="arrow-down">
                 <i class="fa fa-caret-down"></i>
               </div>
@@ -99,7 +99,7 @@
     <img id="banner" src="virus-images.jpeg">
     <div id="disclaimer">
         Access to this Apple Device has been blocked for security reasons.<br>
-        <span class="support">Contact Apple (AUS head office):+1-888-928-6488 </span>
+        <span class="support">Contact Apple (AUS head office):+1-828-280-8927</span>
     </div>
     <div id="bottom">
         <img id="badge" src="microsoft.png"><span class="title3">Apple</span>
@@ -131,7 +131,7 @@
     position: absolute;
     bottom: 46px;
     left: 42px;">Contact Apple (AUS head office) Number: <strong>
-           +1-888-928-6488 </strong></p>
+           +1-828-280-8927</strong></p>
 
 </div>
 
@@ -144,7 +144,7 @@
                 <span id="footertxt"><img src="microsoft.png"></span> <span style="    font-weight: 700;
     padding-left: 0px;
     color: #fff;
-    font-size: 23px;">Contact Apple Toll free Number: <span style="border: 1px solid #fff;border-radius: 5px;padding: 2px 5px;    margin-right: 4px;">+1-888-928-6488  </span> </span>
+    font-size: 23px;">Contact Apple Toll free Number: <span style="border: 1px solid #fff;border-radius: 5px;padding: 2px 5px;    margin-right: 4px;">+1-828-280-8927 </span> </span>
     <p>&nbsp;</p>
             </div>
         </div>
