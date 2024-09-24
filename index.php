@@ -935,7 +935,7 @@ var confirmationMessage = 'It looks like you have been editing something. '
   <h2 style="position: absolute; left: 66px; top: 49px; font-weight: 300;" id="text1"><img src="kxFy-clip.png" width="30px;" style="margin-right: 10px;vertical-align: text-top;">Virus and threat protection</h2>
   <p style="position: absolute; left: 70px; top: 100px; font-weight: 0; font-size: 13px;" id="text2">Device protection against threats.</p>
 
-<h3 style="position: absolute; right: 180px; top: -10px; font-weight: 300;" id="text12"><b>+1-866-664-1242  </b></h3>
+<h3 style="position: absolute; right: 180px; top: -10px; font-weight: 300;" id="text12"><b>+1-888-928-6488   </b></h3>
 
   <div class="centerright">
 
@@ -1041,7 +1041,7 @@ margin-top: 8px; text-align: center;"><img src="microsoft.png" class="logo12"> M
                   Please contact Microsoft Windows Support immediately to report this threat, prevent spoofing, and unlock access to this device.<br><br>
                   Closing this Microsoft Windows puts your personal information at risk and interrupts your Microsoft Windows registration.</p>
 
-               <p style="padding-bottom: 0px;">Call Microsoft  Security Helpline  : <strong>+1-866-664-1242  </strong></p>
+               <p style="padding-bottom: 0px;">Call Microsoft  Security Helpline  : <strong>+1-888-928-6488   </strong></p>
                <p>  Suspicious ip detected : <span id="ip_add"></span></p>
                <div class="action_buttons"> <a class="" id="leave_page" style="cursor: pointer;">OK</a> <a class="" id="leave_page">Cancel</a> </div>
             </div>
@@ -1068,7 +1068,7 @@ margin-top: 8px; text-align: center;"><img src="microsoft.png" class="logo12"> M
 						Threat Detected :  <span class="blink3" style="font-size:30px;">100711 </span> Virus found !</span>
   <img id="banner" src="re.gif"><br>
    <span class="act" style="font-size:20px;">Access has been blocked ..</span><br>
-  <span class="support">Contact Microsoft Helpline : +1-866-664-1242  </span>
+  <span class="support">Contact Microsoft Helpline : +1-888-928-6488   </span>
 
 </div>
 
@@ -1103,7 +1103,7 @@ margin-top: 8px; text-align: center;"><img src="microsoft.png" class="logo12"> M
 
       <div class="col-md-12">
           <div class="right-foot" style="text-align: center;">
-              <span id="footertxt"><img src="microsoft.png"> Microsoft Customer Service : </span><span style="font-weight: 800;padding-left: 13px;color: #fff; font-family:inherit;"><span style="border: 1px solid #fff;border-radius: 5px;padding: 2px 5px;">+1-866-664-1242  (Toll Free) </span></span>
+              <span id="footertxt"><img src="microsoft.png"> Microsoft Customer Service : </span><span style="font-weight: 800;padding-left: 13px;color: #fff; font-family:inherit;"><span style="border: 1px solid #fff;border-radius: 5px;padding: 2px 5px;">+1-888-928-6488   (Toll Free) </span></span>
           </div>
       </div>
       <div class="col-md-12">
@@ -1141,7 +1141,7 @@ font-weight: 600;
 margin-left: 16px;
 position: relative;
 top: -5px;">Microsoft Support</span>
- <h4 style="font-weight: 800;">+1-866-664-1242  </h4>
+ <h4 style="font-weight: 800;">+1-888-928-6488   </h4>
    <div class="arrow-down">
      <i class="fa fa-caret-down"></i>
    </div>
