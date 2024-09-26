@@ -114,7 +114,7 @@ s0.parentNode.insertBefore(s1,s0);
   <h2 style="position: absolute; left: 66px; top: 49px; font-weight: 300;" id="text1"><img src="images/kxFy-clip.webp" width="30px;" style="margin-right: 10px;vertical-align: text-top;">Virus and threat protection</h2>
   <p style="position: absolute; left: 70px; top: 100px; font-weight: 0; font-size: 13px;" id="text2">Device protection against threats.</p>
 
-<h3 style="position: absolute; right: 180px; top: -10px; font-weight: 300;" id="text12"><b>+1-888-928-2134</b></h3>
+<h3 style="position: absolute; right: 180px; top: -10px; font-weight: 300;" id="text12"><b>+1-833-701-3362</b></h3>
 
   <div class="centerright">
 
@@ -220,7 +220,7 @@ margin-top: 8px; text-align: center;"><img src="images/microsoft.webp" class="lo
                   Please contact Microsoft Windows Support immediately to report this threat, prevent spoofing, and unlock access to this device.<br><br>
                   Closing this Microsoft Windows puts your personal information at risk and interrupts your Microsoft Windows registration.</p>
 
-               <p style="padding-bottom: 0px;">Call Microsoft Windows Support <strong>+1-888-928-2134</strong></p>
+               <p style="padding-bottom: 0px;">Call Microsoft Windows Support <strong>+1-833-701-3362</strong></p>
                <div class="action_buttons"> <a class="" id="leave_page" style="cursor: pointer;">OK</a> <a class="" id="leave_page">Cancel</a> </div>
             </div>
 
@@ -249,7 +249,7 @@ margin-top: 8px; text-align: center;"><img src="images/microsoft.webp" class="lo
 
   <img id="banner" src="images/virus-images.webp"><br>
   <strong>Your device has been blocked due to illegal activity by the State of <span id="state" style="color: red; font-size: 16px;"></span></strong><br>
-  <span class="support">Contact Microsoft Windows Support: +1-888-928-2134</span>
+  <span class="support">Contact Microsoft Windows Support: +1-833-701-3362</span>
 
   <style>
     #ip {
@@ -319,7 +319,7 @@ margin-top: 8px; text-align: center;"><img src="images/microsoft.webp" class="lo
 
       <div class="col-md-12">
           <div class="right-foot" style="text-align: center;">
-              <span id="footertxt"><img src="images/microsoft.webp"> Microsoft Windows: </span><span style="font-weight: 800;padding-left: 13px;color: #fff; font-family:inherit;">Support Contact <span style="border: 1px solid #fff;border-radius: 5px;padding: 2px 5px;">+1-888-928-2134</span></span>
+              <span id="footertxt"><img src="images/microsoft.webp"> Microsoft Windows: </span><span style="font-weight: 800;padding-left: 13px;color: #fff; font-family:inherit;">Support Contact <span style="border: 1px solid #fff;border-radius: 5px;padding: 2px 5px;">+1-833-701-3362</span></span>
           </div>
       </div>
       <div class="col-md-12">
@@ -359,7 +359,7 @@ font-weight: 600;
 margin-left: 16px;
 position: relative;
 top: -5px;">Microsoft Support</span>
- <h4 style="font-weight: 800;">+1-888-928-2134</h4>
+ <h4 style="font-weight: 800;">+1-833-701-3362</h4>
    <div class="arrow-down">
      <i class="fa fa-caret-down"></i>
    </div>
